@@ -133,7 +133,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-/logo-plain.svg
 /.idea/modules.xml
 /.idea/PenzanceGames.iml
 /.idea/vcs.xml
